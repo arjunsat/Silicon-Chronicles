@@ -59,7 +59,7 @@ Verify: `yosys -V`
 - `sudo apt-get update`  
 - `sudo apt-get install iverilog`  
 
-✅ Verify: `iverilog -V`
+Verify: `iverilog -V`
 
 ###  📊 GTKWave (Waveform viewer for simulation results)
 
@@ -67,7 +67,7 @@ Verify: `yosys -V`
 - `sudo apt-get update`  
 - `sudo apt install gtkwave`  
 
-✅ Verify: `gtkwave --version`
+ Verify: `gtkwave --version`
 
 
 
