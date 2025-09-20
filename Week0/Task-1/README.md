@@ -99,5 +99,6 @@ After completing the setup, here’s the outcome of my Week 0 / Task 1 work:
   
 
 
-📌 *This marks the start of my silicon design journey — the lab is ready, the tools are active, and the learning begins!*  
+📌 *This marks the start of my silicon design journey — the lab is ready, the tools are active, and the learning begins!
+Excited for the journey ahed!*  
 
