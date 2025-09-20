@@ -78,19 +78,26 @@ To Verify: `iverilog -V`
 
 
 
-Summary
+## ✅ Task 1 — Quick Recap
 
-🖥️ Configured a Virtual Machine with Ubuntu  6 GB RAM, 50 GB storage, 4 vCPUs
+After completing the setup, here’s the outcome of my Week 0 / Task 1 work:
 
-⚙️ Installed and verified three key tools:
+| 🚀 Tool | 🔍 Purpose | 📊 Status |
+|---------|------------|-----------|
+| 🧠 **Yosys** | RTL Synthesis | 🟢 Installed |
+| 📟 **Icarus Verilog** | Verilog Simulation | 🟢 Installed |
+| 📊 **GTKWave** | Waveform Visualization | 🟢 Installed |
 
-🧠 Yosys 
+---
 
-📟 Icarus Verilog 
+### 🎯 Achievements
+- 🖥️ Virtual Machine configured with Ubuntu 20.04  
+- ⚙️ Installed and verified core tools for synthesis, simulation, and waveform analysis  
+- 🚀 Established a solid foundation for the **VSD RISC-V SoC Tapeout Journey**  
 
-📊 GTKWave 
+---
+  
 
- Environment is fully set up for upcoming VSD program tasks
 
-A solid foundation is now in place — ready to design, simulate, and take the next step toward silicon.
+📌 *This marks the start of my silicon design journey — the lab is ready, the tools are active, and the learning begins!*  
 
