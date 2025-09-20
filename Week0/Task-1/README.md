@@ -34,7 +34,7 @@ The following open-source tools were installed successfully:
 
 ## 🔧 Installation Steps in Ubuntu
 
-### 🧠 Yosys (Synthesis Tool)
+
 
 
 ### 🧠 Yosys (RTL Synthesis Tool)
@@ -51,20 +51,25 @@ The following open-source tools were installed successfully:
 - `make`  
 - `sudo make install`  
 
-✅ Verify: `yosys -V`
+Verify: `yosys -V`
 
 
 ### 📟 Icarus Verilog (Tool to Compile & simulate Verilog designs )
 
+- `sudo apt-get update`  
+- `sudo apt-get install iverilog`  
 
--> sudo apt-get update
--> sudo apt-get install iverilog 
+✅ Verify: `iverilog -V`
 
 ###  📊 GTKWave (Waveform viewer for simulation results)
 
 
--> sudo apt-get update
--> sudo apt install gtkwave
+- `sudo apt-get update`  
+- `sudo apt install gtkwave`  
+
+✅ Verify: `gtkwave --version`
+
+
 
 Summary
 
