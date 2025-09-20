@@ -52,6 +52,7 @@ The following open-source tools were installed successfully:
 - `sudo make install`  
 
 Verify: `yosys -V`
+![Yosys Installed](Images/yosys_license.png)
 
 
 ### 📟 Icarus Verilog (Tool to Compile & simulate Verilog designs )
