@@ -51,7 +51,8 @@ The following open-source tools were installed successfully:
 - `make`  
 - `sudo make install`  
 
-Verify: `yosys -V`
+To Verify: `yosys -V`
+
 ![Yosys Installed](Images/yosys_license.png)
 
 
@@ -60,7 +61,9 @@ Verify: `yosys -V`
 - `sudo apt-get update`  
 - `sudo apt-get install iverilog`  
 
-Verify: `iverilog -V`
+To Verify: `iverilog -V`
+
+![i-veilog Installed](Images/iverilo1.png)
 
 ###  📊 GTKWave (Waveform viewer for simulation results)
 
