@@ -16,7 +16,7 @@ A dedicated VM was configured to ensure smooth performance for synthesis, simula
 | 💿 **Storage** | 50 GB HDD |
 | ⚡ **vCPUs** | 4 |
 
-✅ **Why this setup?** → Balanced resources for handling synthesis, running simulations, and debugging waveforms.
+ **Why this setup?** → All are open source resources .Balanced resources for handling synthesis, running simulations, and debugging waveforms.
 
 ---
 
@@ -36,6 +36,7 @@ The following open-source tools were installed successfully:
 
 ### 🧠 Yosys (Synthesis Tool)
 
+
 -> sudo apt-get update
 -> git clone https://github.com/YosysHQ/yosys.git
 -> cd yosys
@@ -50,10 +51,12 @@ The following open-source tools were installed successfully:
 
 ### 📟 Icarus Verilog (Tool to Compile & simulate Verilog designs )
 
+
 -> sudo apt-get update
 -> sudo apt-get install iverilog 
 
 ###  📊 GTKWave (Waveform viewer for simulation results)
+
 
 -> sudo apt-get update
 -> sudo apt install gtkwave
