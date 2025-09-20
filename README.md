@@ -20,12 +20,38 @@
 </p>
 
 
-“From Silicon to Sovereignty, I choose to commit.”
+# ⚡ RISC-V SoC Tapeout Journey — From Silicon to Sovereignty ⚡  
+![Commitment](https://img.shields.io/badge/Commitment-🔥-red?style=for-the-badge) 
+![Dedication](https://img.shields.io/badge/Dedication-💯-orange?style=for-the-badge) 
+![Nation_Building](https://img.shields.io/badge/Nation_Building-🇮🇳-green?style=for-the-badge)  
 
-As a student in the RISC-V SoC Tapeout Program by IIT Gandhinagar and VSD, I see this not just as training, but as a national mission. Over 20 weeks, I will walk the path from RTL design to silicon tapeout, learning industry-grade flows, tools, and practices that prepare me for real-world chip design.
+---
 
-This is more than coursework — it’s my contribution toward India’s vision of “One Tapeout per Student” and the larger dream of semiconductor self-reliance. I commit to timely submissions, hands-on exploration, and consistent progress because I believe “this program is not only about skilling, it’s about nation-building.”
+### 🌟 Visionaries & Mentorship  
 
-Each folder, each commit in this repository is proof of my dedication. Week by week, I document not only tasks and results but also the discipline, persistence, and belief that India’s semiconductor future is built by students like me.
+<p align="center">
+  <img src="https://img.shields.io/badge/Visionary_Leaders-⭐-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mentorship-💡-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nation_Building-🇮🇳-green?style=for-the-badge" />
+</p>  
 
-*“Be part of the revolution,” they said. I am proud to say — I already am
+---
+
+### 📖 Repository Description  
+
+> *“From Silicon to Sovereignty, I choose to commit.”*  
+
+As a student in the **RISC-V SoC Tapeout Program** by **IIT Gandhinagar** and **VSD**, I see this not just as training, but as a **national mission**. Over 20 weeks, I will walk the path from **RTL design to silicon tapeout**, learning industry-grade flows, tools, and practices that prepare me for real-world chip design.  
+
+This is more than coursework — it’s my contribution toward India’s vision of *“One Tapeout per Student”* and the larger dream of **semiconductor self-reliance**. I commit to timely submissions, hands-on exploration, and consistent progress because I believe *“this program is not only about skilling, it’s about nation-building.”*  
+
+Each folder, each commit in this repository is proof of my dedication. Week by week, I document not only tasks and results but also the discipline, persistence, and belief that India’s semiconductor future is built by students like me.  
+
+> *“Be part of the revolution,” they said. I am proud to say — *I already am.*  
+
+---
+
+### 🙏 Acknowledgement  
+
+I sincerely thank the **visionary leaders** — *Samir Patel, Prof. Tarun Agarwal, Prof. Nihar Ranjan Mohapatra, Prof. Joycee Mekie, Prof. Madhav Pathak, and Prof. Rajat Moona* — whose guidance, vision, and dedication are empowering students like me to transform knowledge into silicon, and learning into sovereignty.  
+
