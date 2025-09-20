@@ -20,7 +20,7 @@
 </p>
 
 
-# ⚡ RISC-V SoC Tapeout Journey — From Silicon to Sovereignty ⚡  
+ 
 ![Commitment](https://img.shields.io/badge/Commitment-🇮🇳-green?style=for-the-badge)
 ![Dedication](https://img.shields.io/badge/Dedication-💯-orange?style=for-the-badge) 
 ![Nation_Building](https://img.shields.io/badge/Nation_Building-🇮🇳-green?style=for-the-badge) 
