@@ -1,7 +1,7 @@
 # 🌟 Week 0 / Task 1 — VSD Program Foundation & Tool Setup
 
 Welcome to the beginning of my **RISC-V SoC Tapeout (VSD Program)** journey.  
-This week was all about **building the environment** and **setting up essential tools** that will power my RTL-to-GDS design flow.
+This week was all about **building the environment** and **setting up essential tools** that will power my RTL-to-GDS design flow. Following is the detailed report of my learnings and relevant activities.
 
 ---
 
