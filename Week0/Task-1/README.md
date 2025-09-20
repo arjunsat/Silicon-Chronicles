@@ -74,7 +74,7 @@ To Verify: `iverilog -V`
  Version check: `gtkwave --version`
 
  ![gtk_wave installed](Images/gtk_wave_command.png)
- ![gtk_wave_window ](Images/gtk_wave_window.png)
+ ![gtk_wave_window ](Images/gtk_wave_window.png)    Waveform window
 
 
 
