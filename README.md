@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="Images/iitg.png" alt="IIT Guwahati" height="90"/>
-  &nbsp;&nbsp;
-  <img src="Images/scl.png" alt="SCL" height="90"/>
-  &nbsp;&nbsp;
-  <img src="Images/synopsys.png" alt="Synopsys" height="90"/>
-  &nbsp;&nbsp;
-  <img src="Images/vsd.png" alt="VSD" height="90"/>
-</p>
+
 
 <h1 align="center">⚡ RISC-V SoC Tapeout Journey ⚡</h1>
 <h3 align="center">From RTL Code → Silicon Reality</h3>
